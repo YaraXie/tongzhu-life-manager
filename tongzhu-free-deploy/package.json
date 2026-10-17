@@ -1,0 +1,13 @@
+{
+  "name": "tongzhu-free-deploy",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node tests/rooms.test.mjs && node tests/accounts.test.mjs && node tests/purchases.test.mjs && node tests/sentence.test.mjs && node tests/portable.test.mjs && node tests/turso.test.mjs"
+  }
+}

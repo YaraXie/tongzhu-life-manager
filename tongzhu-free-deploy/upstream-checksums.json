@@ -1,0 +1,31 @@
+{
+  "commit": "20170d9228f9f1992d029ca0927cd25c159696f2",
+  "files": {
+    "src/interface.html": "fb83d00f67c830b05fcb29e4b4a6bafc6a5151e7f3e507bcf179d0947b18a26d",
+    "public/sentence-core.mjs": "cfa9e924890c50a92d3b4e98aba1c2cd8c418a28293edf9b7ad6e7c8c76e7e71",
+    "public/quick-entry.js": "7717f3cd447fe1b60a6c716a0e2f6c381e63aa6ad0937795419332f9ad66cd6b",
+    "public/file.svg": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307",
+    "public/window.svg": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66",
+    "public/globe.svg": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9",
+    "public/shared.js": "704b09d876ca1f83e13167b8aba5dbbaf9ac2db3935eb539756bcaf605fecd6f",
+    "public/purchasing-core.mjs": "aaf4167878c6dda2004418d9f2f18f8d466690a914fd16b9ed2176b1d374ff1f",
+    "public/favicon.svg": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7",
+    "public/purchases.js": "0e2edee235e587419c48a43c7e9905a6e1236687d7239d15e9893e19ceea3e5a",
+    "lib/room-service.mjs": "7dc7fed9973b0b4f5e58855c5a93c48b6eee7a7a7f284227e7ca038e97f248bc",
+    "lib/connectors.ts": "1c93d747e384c8e17e3e3dd5361b24412babf5eba2a11d2ae7a75f4e0924112c",
+    "lib/connector-contract.mts": "e1a7b24a8793af34b595690d9b1300c897c7321c14f215cedf58ad95799d7c3e",
+    "lib/connector-context.ts": "bbddff68689cb0f6926fecd4b8b96f12f2054277c296e97b0df07d4ad5ece24e",
+    "lib/connector-preview.d.ts": "abd69a94f7f61f1359063bb557574faae35e8ff5a028cc4c04b9ee248ef52642",
+    "lib/utils.ts": "53f3d3d070f0a9082934da25b875f9499855c2b0693868dd28be8c23d8730f68",
+    "lib/account-auth.mjs": "aa71f532d7f7e7eaa459504d8a61df872afa257f5e11183432cb74c76067db97",
+    "lib/connector-errors.mts": "a22edf13d6873ae832c4a2a0d579fc666c73ec996ef0722d39172649d38f0871",
+    "drizzle/0000_dark_viper.sql": "5dc557c2457395548745307b62e350132ce634cc4c4508bb16a2065cbef0f8a4",
+    "drizzle/0001_chief_starhawk.sql": "c55a76b396c24d368f21c63ee8e81120696e243568b59fe9f7b937f3f3c15061",
+    "drizzle/meta/_journal.json": "f79a3ed1cd4f10335a288a8a8a0663e672664dc92a74c19efd762ce1eb0b65c6",
+    "drizzle/meta/0001_snapshot.json": "b18952ee79136da449714d57327228d3dd9a91be6a7a5d1f72573941df19407a",
+    "drizzle/meta/0000_snapshot.json": "1ea1edd218bc024b76fafd3dccc51343e1d8183fd935b6f1db1b86df5f9cdeab"
+  },
+  "adapted": [
+    "lib/account-auth.mjs: dependency import only"
+  ]
+}
